@@ -54,7 +54,7 @@ public class WelcomeActivity extends AppCompatActivity {
         btnNext = (Button) findViewById(R.id.btn_next);
         
         
-        ((((TEST))))
+        ((((TEST)))) +++ TEST PUSH
 
 
         // layouts of all welcome sliders

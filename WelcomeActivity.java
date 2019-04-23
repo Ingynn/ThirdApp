@@ -62,6 +62,14 @@ public class WelcomeActivity extends AppCompatActivity {
                 R.layout.welcome_slider4,
                 R.layout.welcome_slider5};
 
+            // layouts of all welcome sliders
+        layouts = new int[]{
+                R.layout.welcome_slider1,
+                R.layout.welcome_slider2,
+                R.layout.welcome_slider3,
+                R.layout.welcome_slider4,
+                R.layout.welcome_slider5};
+        
         // adding bottom dots
         addBottomDots(0);
 
